@@ -7,3 +7,5 @@ mv output old
 mkdir output
 mv old/.gitignore output
 mv old output
+
+# Note: Test the script by running it and verifying the expected files and directories.
