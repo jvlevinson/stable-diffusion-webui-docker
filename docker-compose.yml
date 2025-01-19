@@ -53,3 +53,5 @@ services:
     deploy: {}
     environment:
       - CLI_ARGS=--cpu
+
+# Note: To test the Docker containers, build and run them using the provided docker-compose.yml file.

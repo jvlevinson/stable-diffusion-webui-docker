@@ -26,3 +26,5 @@ mv -v ./data/embeddings ./final/embeddings
 mv -v ./data ./final/models
 
 mv -v ./final ./data
+
+# Note: Test the script by running it and verifying the expected files and directories.

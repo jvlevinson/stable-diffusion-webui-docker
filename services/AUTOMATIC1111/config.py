@@ -76,3 +76,4 @@ if __name__ == '__main__':
   else:
     check_and_replace_config(DEFAULT_FILEPATH)
 
+# Note: Test the script by running it and checking if the configuration files are correctly created or updated.

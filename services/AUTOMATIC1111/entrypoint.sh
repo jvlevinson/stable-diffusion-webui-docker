@@ -82,4 +82,6 @@ if [ -f "/data/config/auto/startup.sh" ]; then
   popd
 fi
 
+# Note: Verify that the script correctly sets up the environment and mounts the necessary directories by checking the container logs and the file system inside the containers.
+
 exec "$@"
